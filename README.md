@@ -1,2 +1,1 @@
-# Code_Practice
-Practice codes 
+Just me practicing Data Structures.
