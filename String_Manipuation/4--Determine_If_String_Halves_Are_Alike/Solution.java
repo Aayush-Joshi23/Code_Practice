@@ -1,6 +1,3 @@
-public class Solution {
-
-}
 
 class Solution {
     public boolean halvesAreAlike(String s) {
